@@ -1,6 +1,6 @@
-# Email action for Automate-Everything
+# Welcome
 
-This is a plugin for [Automate-Everything](https://github.com/tomaszbabiuk/automate-everything)
+This is a plugin for [Automate-Everything](https://github.com/tomaszbabiuk/automate-everything). It provides email sending action.
 
 # Directory setup
 ```bash
@@ -38,7 +38,7 @@ After running this task, the plugin is installed in 'automate-everything/output/
 cd output
 java -jar output/bin/ae-backend-all.jar
 ```
-After running the server, go to http://localhost/plugins/objects and enable "Bash action plugin"
+After running the server, go to http://localhost/plugins/objects and enable "Email action" plugin
 
 # Debugging
 Run in IntelliJ Idea. Debug as "JAR application". 
